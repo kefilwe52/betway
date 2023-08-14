@@ -24,7 +24,7 @@ The solution is structured into multiple projects:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/kefilwe52/betway/)
    ```
 
 2. **Navigate to the Project Directory**:
