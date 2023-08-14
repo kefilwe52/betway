@@ -1,0 +1,12 @@
+C:\Users\Kefilwe\source\repos\BetwayAuthentication.Api\BetwayAuthentication.DAL\bin\Debug\net6.0\BetwayAuthentication.DAL.deps.json
+C:\Users\Kefilwe\source\repos\BetwayAuthentication.Api\BetwayAuthentication.DAL\bin\Debug\net6.0\BetwayAuthentication.DAL.dll
+C:\Users\Kefilwe\source\repos\BetwayAuthentication.Api\BetwayAuthentication.DAL\bin\Debug\net6.0\BetwayAuthentication.DAL.pdb
+C:\Users\Kefilwe\source\repos\BetwayAuthentication.Api\BetwayAuthentication.DAL\obj\Debug\net6.0\BetwayAuthentication.DAL.csproj.AssemblyReference.cache
+C:\Users\Kefilwe\source\repos\BetwayAuthentication.Api\BetwayAuthentication.DAL\obj\Debug\net6.0\BetwayAuthentication.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kefilwe\source\repos\BetwayAuthentication.Api\BetwayAuthentication.DAL\obj\Debug\net6.0\BetwayAuthentication.DAL.AssemblyInfoInputs.cache
+C:\Users\Kefilwe\source\repos\BetwayAuthentication.Api\BetwayAuthentication.DAL\obj\Debug\net6.0\BetwayAuthentication.DAL.AssemblyInfo.cs
+C:\Users\Kefilwe\source\repos\BetwayAuthentication.Api\BetwayAuthentication.DAL\obj\Debug\net6.0\BetwayAuthentication.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kefilwe\source\repos\BetwayAuthentication.Api\BetwayAuthentication.DAL\obj\Debug\net6.0\BetwayAuthentication.DAL.dll
+C:\Users\Kefilwe\source\repos\BetwayAuthentication.Api\BetwayAuthentication.DAL\obj\Debug\net6.0\refint\BetwayAuthentication.DAL.dll
+C:\Users\Kefilwe\source\repos\BetwayAuthentication.Api\BetwayAuthentication.DAL\obj\Debug\net6.0\BetwayAuthentication.DAL.pdb
+C:\Users\Kefilwe\source\repos\BetwayAuthentication.Api\BetwayAuthentication.DAL\obj\Debug\net6.0\ref\BetwayAuthentication.DAL.dll
